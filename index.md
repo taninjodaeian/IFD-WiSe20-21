@@ -2,8 +2,10 @@
 
 A1 [öffnen](url)
 
-## Kontakt
+### Kontakt
 
-E-Mail: [gion.egel@hs-furtwangen.de](mailto:gion.egel@hs-furtwangen.de)
+[gion.egel@hs-furtwangen.de](mailto:gion.egel@hs-furtwangen.de)
 
-Webspace: [öffnen](sftp.hs-furtwangen.de/~egelgion)
+### HFU-Webspace
+
+[öffnen](sftp.hs-furtwangen.de/~egelgion)
