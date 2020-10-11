@@ -1,13 +1,9 @@
 ## Link-Liste der Aufgaben
 
-A1 [öffnen](url)
+A0 (SWOT-Analyse) [öffnen](https://gionegel.github.io/IFD-WiSe20-21/task-0.html)
 
+A1
 
-### Kontakt
+A2
 
-[gion.egel@hs-furtwangen.de](mailto:gion.egel@hs-furtwangen.de)
-
-
-### HFU-Webspace
-
-[öffnen](sftp.hs-furtwangen.de/~egelgion)
+A3
