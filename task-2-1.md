@@ -2,7 +2,7 @@
 
 # Aufgabe 2.1: Vorstellung des Prototyp-Tools Figma
 
-Erarbeitet von Gion Egel und Manuel Maringolo
+Erstellt von Gion Egel und [Manuel Maringolo](https://github.com/mnlmrngl)
 
 ## Allgemeine Beschreibung
 
