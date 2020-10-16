@@ -1,4 +1,4 @@
-# Aufgabe 2.1  Vorstellung des Prototyp-Tools Figma
+# Vorstellung des Prototyp-Tools Figma
 
 Erarbeitet von Gion Egel und Manuel Maringolo
 
