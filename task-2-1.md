@@ -29,5 +29,5 @@ Erstellt von Gion Egel und [Manuel Maringolo](https://github.com/mnlmrngl)
 [Text]
 
 
-
+---
 [Nach oben](#top)
