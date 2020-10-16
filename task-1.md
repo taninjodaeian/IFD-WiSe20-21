@@ -1,17 +1,16 @@
-# Aufgabe 1
-## The Wallet Project (Dokumentation)
+# Aufgabe 1: The Wallet Project (Dokumentation)
 
-### Empathize
+## Empathize
 
-### Define
+## Define
 
-### Ideate
+## Ideate
 
-### Prototype
+## Prototype
 
-### Test
+## Test
 
-### Prototype Iteration
+## Prototype Iteration
 
 
 [Nach oben](#top)
