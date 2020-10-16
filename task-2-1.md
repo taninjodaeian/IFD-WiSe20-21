@@ -30,4 +30,4 @@ Erstellt von Gion Egel und [Manuel Maringolo](https://github.com/mnlmrngl)
 
 
 ---
-[Nach oben](#top)
+[Nach oben &#x25B2;](#top)
