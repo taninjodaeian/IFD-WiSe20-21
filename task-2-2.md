@@ -6,4 +6,4 @@
 
 
 ---
-[Nach oben](#top)
+[Nach oben &#x25B2;](#top)
