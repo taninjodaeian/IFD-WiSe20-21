@@ -66,10 +66,10 @@ Funktionsumfang:
 
 ## Prototype
 
-Front- und Seitenansicht
+Front- und Seitenansicht, geschlossen:
 ![Skizze](task-1-img-2.jpg)
 
-Ohne Smartphone
+Ohne Smartphone, geöffnet:
 ![Skizze](task-1-img-3.jpg)
 
 
