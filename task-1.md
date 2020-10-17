@@ -26,7 +26,7 @@
 * schwer zu öffnendes Fach für Münzgeld
 * Geldscheine können zerknittern oder beschädigt werden
 
-![Skizze](task-1-img-1.png =250x)
+![Skizze](task-1-img-1.png)
 
 ### Aspekte einer idealen Geldbörse (Befragung)
 
@@ -65,6 +65,10 @@ Funktionsumfang:
 * elastisches, staffes Band für die Befestigung von Geldscheinen oder weiteren Karten
 
 ## Prototype
+
+![Skizze](task-1-img-2.png)
+
+![Skizze](task-1-img-3.png)
 
 
 
