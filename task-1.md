@@ -37,6 +37,7 @@
 * darf nicht verloren gehen (Diebstahl-Schutz)
 * Wetter-geschützte Oberfläche
 
+
 ## Define
 
 ### Top Findings
@@ -49,6 +50,7 @@
 ### Point Of View
 
 *Ich als Nutzer benötige eine sichere und wertige Geldbörse, die ich mit einem bereits bestehenden Objekt kombinieren kann, das Überschaubar und geräumig ist, um schnell mit Karten oder Bargeld zahlen zu können.*
+
 
 ## Ideate
 
@@ -64,6 +66,7 @@ Funktionsumfang:
 * Netzfach für Münzgeld oder kleinere Wertgegenstände
 * elastisches, staffes Band für die Befestigung von Geldscheinen oder weiteren Karten
 
+
 ## Prototype
 
 Front- und Seitenansicht, geschlossen:
@@ -75,6 +78,7 @@ Ohne Smartphone, geöffnet:
 
 
 ## Test
+
 
 ## Prototype Iteration
 
