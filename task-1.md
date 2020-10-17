@@ -83,7 +83,7 @@ Ohne Smartphone, geöffnet:
 
 Animation zur besseren Darstellung:
 
-![Animation](task-1-animation.gif)
+![Animation](task-1-animation.gif | width=200)
 
 
 
