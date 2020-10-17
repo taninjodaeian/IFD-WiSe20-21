@@ -4,6 +4,10 @@
 
 ## Empathize
 
+### Grundsätzliche Probleme von Geldbörsen
+
+* Hallo
+
 ## Define
 
 ## Ideate
