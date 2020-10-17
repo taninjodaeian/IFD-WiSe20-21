@@ -83,7 +83,7 @@ Ohne Smartphone, geöffnet:
 
 Animation zur besseren Darstellung:
 
-![Animation](task-1-animation.mp4)
+![Animation](task-1-animation.gif)
 
 
 
