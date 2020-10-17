@@ -81,12 +81,6 @@ Ohne Smartphone, geöffnet:
 
 ![Render](task-1-img-4.jpg)
 
-Animation zur besseren Darstellung:
-
-<img src="task-1-animation.gif" width="200" height="auto"/>
-
-
-
 
 ## Test
 
