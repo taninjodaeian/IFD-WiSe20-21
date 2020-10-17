@@ -66,9 +66,9 @@ Funktionsumfang:
 
 ## Prototype
 
-![Skizze](task-1-img-2.png)
+![Skizze](task-1-img-2.jpg)
 
-![Skizze](task-1-img-3.png)
+![Skizze](task-1-img-3.jpg)
 
 
 
