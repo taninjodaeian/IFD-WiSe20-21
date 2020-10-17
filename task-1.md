@@ -26,6 +26,8 @@
 * schwer zu öffnendes Fach für Münzgeld
 * Geldscheine können zerknittern oder beschädigt werden
 
+![Skizze](task-1-img-1.png)
+
 ### Aspekte einer idealen Geldbörse (Befragung)
 
 * platzsparen und handlich
