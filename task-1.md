@@ -69,11 +69,22 @@ Funktionsumfang:
 
 ## Prototype
 
+### Erster Entwurf
+
 Front- und Seitenansicht, geschlossen:
 ![Skizze](task-1-img-2.jpg)
 
 Ohne Smartphone, geöffnet:
 ![Skizze](task-1-img-3.jpg)
+
+### Higher Fidelity
+
+![Render](task-1-img-4.jpg)
+
+Animation zur besseren Darstellung:
+
+![Animation](task-1-animation.mp4)
+
 
 
 
