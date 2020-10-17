@@ -66,8 +66,10 @@ Funktionsumfang:
 
 ## Prototype
 
+Front- und Seitenansicht
 ![Skizze](task-1-img-2.jpg)
 
+Ohne Smartphone
 ![Skizze](task-1-img-3.jpg)
 
 
