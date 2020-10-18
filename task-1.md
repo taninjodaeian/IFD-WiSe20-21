@@ -81,6 +81,10 @@ Ohne Smartphone, geöffnet:
 
 ![Render](task-1-img-4.jpg)
 
+### Haptischer Entwurf
+
+![Objekt](task-1-img-5.jpg)
+
 
 ## Test
 
