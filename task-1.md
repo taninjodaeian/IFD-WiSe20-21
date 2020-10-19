@@ -105,7 +105,7 @@ Ohne Smartphone, geöffnet:
 
 ## Prototype Iteration
 
-### Haptischer Entwurf
+### Haptisches Modell in Original-Maßstab
 
 ![Objekt](task-1-img-5.jpg)
 
