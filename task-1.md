@@ -81,15 +81,33 @@ Ohne Smartphone, geöffnet:
 
 ![Render](task-1-img-4.jpg)
 
-### Haptischer Entwurf
-
-![Objekt](task-1-img-5.jpg)
-
 
 ## Test
 
+### Positives Feedback
+
+* Produkt ist handlich (guter Formfaktor)
+* gute Adaption an das Smartphone
+* Funktionalität ist positiv aufgefallen
+* Mechanismus zur Öffnung der Lasche
+
+### Negatives Feedback
+
+* Fach für Geldscheine zu klein
+* Geldscheine müssen mühsam gefaltet werden
+
+### Ansätze zur Verbesserung
+
+* Inneres Netzfach über zwei Seiten vergrößern
+* weiterer Karten-Slot auf der Außenseite
+* Entfernung des Innenbands
+
 
 ## Prototype Iteration
+
+### Haptischer Entwurf
+
+![Objekt](task-1-img-5.jpg)
 
 
 ---
