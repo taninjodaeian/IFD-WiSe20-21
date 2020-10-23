@@ -29,9 +29,9 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 **Benutzeroberfläche**
 
-![UIMod1]()
+![UIMod1](task-2-1-img-1.jpg)
 
-![UIMod2]()
+![UIMod2](task-2-1-img-2.jpg)
 
 ## Beispiele
 
