@@ -4,7 +4,14 @@
 
 ## Startseite
 
+![Dashboard](task-2-2-img-1.jpg)
+
 ## Kursseite
+
+![Course](task-2-2-img-2.jpg)
+
+![Course](task-2-2-img-3.jpg)
+
 
 
 ---
