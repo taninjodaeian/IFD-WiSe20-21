@@ -10,9 +10,6 @@
 
 ![Course](task-2-2-img-2.jpg)
 
-![Course](task-2-2-img-3.jpg)
-
-
 
 ---
 [Nach oben &#x25B2;](#top)
