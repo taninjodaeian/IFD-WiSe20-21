@@ -37,7 +37,7 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 **Low-Fidelity-Prototpy**
 
-![LowFid]()
+![LowFid](task-2-1-img-3.jpg)
 
 **High-Fidelity-Prototpy**
 
