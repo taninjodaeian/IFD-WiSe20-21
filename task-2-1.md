@@ -41,7 +41,7 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 **High-Fidelity-Prototpy**
 
-![HighFid]()
+![HighFid](task-2-1-img-4.jpg)
 
 
 ## Einschränkungen
