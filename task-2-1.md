@@ -62,6 +62,8 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 [Grafische Elemente erzeugen](https://drive.google.com/file/d/1lAbWV2mH-X8pJnKQJuOdnv3lNj6XxCTC/view)
 
+[Mehrere Text-Elemente erstellen](https://drive.google.com/file/d/1-uQraGHP7pCHlYXduYxOcSEgZSvM9h_n/view)
+
 [Einen Hover-Effekt hinzufügen](https://drive.google.com/file/d/1PHO-EWq5Ug2EWyPY6bZ9Y1inqLYPIRNr/view)
 
 
