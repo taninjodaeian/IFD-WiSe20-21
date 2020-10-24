@@ -39,13 +39,13 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 ![LowFid](task-2-1-img-3.jpg)
 
-[Link zum Prototypen](https://www.figma.com/proto/VRBapo5v9hrupV3JxeBxv4/Task-02-Mercedes-low-fid?node-id=1%3A2&scaling=min-zoom)
+[Link zum Low-Fid](https://www.figma.com/proto/VRBapo5v9hrupV3JxeBxv4/Task-02-Mercedes-low-fid?node-id=1%3A2&scaling=min-zoom)
 
 **High-Fidelity-Prototyp**
 
 ![HighFid](task-2-1-img-4.jpg)
 
-[Link zum Prototypen](https://www.figma.com/proto/5qamzk3hJ6mo0P3umbrSkp/Task-02-Mercedes-high-fid?node-id=1%3A2&scaling=min-zoom)
+[Link zum High-Fid](https://www.figma.com/proto/5qamzk3hJ6mo0P3umbrSkp/Task-02-Mercedes-high-fid?node-id=1%3A2&scaling=min-zoom)
 
 
 ## Einschränkungen
@@ -56,7 +56,7 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 * eingeschränkte Export-Möglichkeiten zu anderen Prototyping-Tools
 * Anzahl der Projekte ist in der kostenlosen Version beschränkt
 
-## Screencasts
+## Screencasts (Videos)
 
 [Einen neuen Prototypen erstellen](https://drive.google.com/file/d/10N1krIEyrr6h3huP6o_ypaU2e7Z4I-RP/view)
 
