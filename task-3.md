@@ -8,7 +8,7 @@
 
 **Link zum Prototypen**
 
-[hier öffnen](#)
+[Link folgt](#)
 
 
 ---
