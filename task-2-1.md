@@ -2,7 +2,7 @@
 
 # Aufgabe 2.1: Vorstellung des Prototyp-Tools Figma
 
-erstellt von [Manuel Maringolo](https://github.com/mnlmrngl) und Gion Egel
+erstellt von [Manuel Maringolo](https://github.com/mnlmrngl) und [Gion Egel](https://github.com/gionegel)
 
 ## Allgemeine Beschreibung
 
@@ -35,11 +35,11 @@ Die Benutzeroberfläche des Tools ist recht intuitiv und übersichtlich gestalte
 
 ## Beispiele
 
-**Low-Fidelity-Prototpy**
+**Low-Fidelity-Prototyp**
 
 ![LowFid](task-2-1-img-3.jpg)
 
-**High-Fidelity-Prototpy**
+**High-Fidelity-Prototyp**
 
 ![HighFid](task-2-1-img-4.jpg)
 
