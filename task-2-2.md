@@ -41,6 +41,18 @@ Die wichtigsten Services der Hochschule/Fakultät sollen hier grafisch aufgelist
 
 ![Course](task-2-2-img-2.jpg)
 
+### (F) Veranstaltung
+
+Hier sind die wichtigsten Informationen zur Veranstaltung zu finden - darunter auch wo und wann diese stattfindet. Außerdem hat man hier die Möglichkeit, Kontakt mit dem Lehrenden aufzunehmen.
+
+### (G) Kursmeldungen
+
+Die wichtigsten vergangenen Meldungen zu diesem Kurs befinden sich hier und werden archiviert.
+
+### (H) Materialien
+
+Dargestellt wie ein Datei-Ordner werden hier die hochgeladenen Materialien aufgelistet. Auch Studierende sollen die Möglichkeit haben, Inhalte in extra erstellten Ordnern hochzuladen und eigene Dokumente zu bearbeiten, während der Lehrende diese einsehen und markieren kann (für eventuelle Rückfragen z.B.). 
+
 
 ---
 [Nach oben &#x25B2;](#top)
