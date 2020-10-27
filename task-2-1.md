@@ -8,7 +8,7 @@ erstellt von [Manuel Maringolo](https://github.com/mnlmrngl) und [Gion Egel](htt
 
 Bei Figma handelt es sich um ein webbasiertes Layout-Programm, das sowohl als Design-Tool als auch Prototyping-Tool eingesetzt werden kann. Es handelt ich um ein performantes und kostenloses Programm, das die Zusammenarbeit von mehreren Personen ermöglicht. Des weiteren gibt eine ambitionierte Community, die dazu beiträgt, dass sich Figma durch weitere Plug-Ins stetig weiterentwickelt.  
 
-### Kern-Features
+## Kern-Features
 
 * Verknüpfung von mehreren grafisch erzeugten User-Interface-Elementen
 * mehrere Interaktionsmöglichkeiten (Mouse-Over und Gestensteuerung)
