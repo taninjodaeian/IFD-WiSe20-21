@@ -2,14 +2,9 @@
 
 # Aufgabe 3: High-Fidelity-Prototyp
 
-**Vorschau**
-
-![Preview](task-3-img-1.jpg)
-
-
 **Link zum Prototypen**
 
-[Link folgt](#)
+[Öffnen](#)
 
 
 ---
