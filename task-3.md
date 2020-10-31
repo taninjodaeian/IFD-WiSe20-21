@@ -2,6 +2,8 @@
 
 # Aufgabe 3: High-Fidelity-Prototyp
 
+erstellt mit Adobe XD
+
 **Link zum Prototypen**
 
 [Vorschau öffnen](https://xd.adobe.com/view/37929572-7689-4c3e-aca7-c6ed67c2f7a2-62c1/?hints=off)
