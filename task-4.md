@@ -14,7 +14,7 @@ Die zweiseitige Interaktion zwischen Voice User Interface, also dem Sprach-Assis
 
 ## Vorschau
 
-![Preview](task-4.png)
+![Preview](task-4.jpg)
 
 ---
 [Nach oben &#x25B2;](#top)
