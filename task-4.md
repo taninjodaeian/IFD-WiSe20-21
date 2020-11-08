@@ -2,7 +2,7 @@
 
 # Aufgabe 4: Konzeptentwurf Voice User Interface
 
-![Preview](task-4.jpg)
+![Preview](task-4.png)
 
 ---
 [Nach oben &#x25B2;](#top)
