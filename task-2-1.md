@@ -1,8 +1,8 @@
 [Zurück zur Auswahl](https://gionegel.github.io/IFD-WiSe20-21/) | [Kurssseite](https://webuser.hs-furtwangen.de/~rag/lehre/WiSe20-21/IFD/Kursinhalt/Team/)
 
-![Figma Logo](task-2-1-img-logo.jpg)
-
 # Aufgabe 2.1: Vorstellung des Prototyp-Tools Figma
+
+![Figma Logo](task-2-1-img-logo.jpg)
 
 erstellt von [Manuel Maringolo](https://github.com/mnlmrngl) und [Gion Egel](https://github.com/gionegel)
 
