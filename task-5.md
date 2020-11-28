@@ -10,7 +10,11 @@
 
 ## Screencast
 
-![Video](task-5-video.mp4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="task-5-video.mp4">
+    <source src="path/to/video.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ---
 [Nach oben &#x25B2;](#top)
