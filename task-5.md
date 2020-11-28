@@ -10,11 +10,7 @@
 
 ## Screencast
 
-![?](placeholder.jpg)
-
-![SC-1](task-5-video-1.mp4)
-
-![SC-2](task-5-video-2.mp4)
+![Video](task-5-video.mp4)
 
 ---
 [Nach oben &#x25B2;](#top)
