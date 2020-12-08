@@ -1,16 +1,25 @@
 [Zurück zur Auswahl](https://gionegel.github.io/IFD-WiSe20-21/) | [Kurssseite](https://webuser.hs-furtwangen.de/~rag/lehre/WiSe20-21/IFD/Kursinhalt/Team/)
 
-# Aufgabe 5: Umsetzung Voice User Interface
+# Aufgabe 8: VR-Cardboard-Brille
 
-## Quick-Links
+## Dokumentation zum Aufbau
 
-[Konzept öffnen](https://gionegel.github.io/IFD-WiSe20-21/task-4.html)
+![1](task-8-img-1.jpg)
 
-[Anwendung öffnen](https://xd.adobe.com/view/e1ef4a5d-3ae7-4c4e-99c9-75ce100277f1-b4bc/)
+![2](task-8-img-2.jpg)
 
-## Screencast
+![3](task-8-img-3.jpg)
 
-[Zum Video](task-5-video.mp4)
+![4](task-8-img-4.jpg)
+
+![5](task-8-img-5.jpg)
+
+![6](task-8-img-6.jpg)
+
+
+## Fertigstellung
+
+![6](task-8-img-6.jpg)
 
 ---
 [Nach oben &#x25B2;](#top)
