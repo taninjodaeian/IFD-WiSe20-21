@@ -29,7 +29,6 @@
 
 ![5](task-8-img-5.jpg)
 
-![6](task-8-img-6.jpg)
 
 ---
 [Nach oben &#x25B2;](#top)
