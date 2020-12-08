@@ -16,10 +16,10 @@
 
 * Vorlage des VR-Cardboards
 
+![1](task-8-img-1.jpg)
+
 
 ## Dokumentation zum Aufbau
-
-![1](task-8-img-1.jpg)
 
 ![2](task-8-img-2.jpg)
 
@@ -28,11 +28,6 @@
 ![4](task-8-img-4.jpg)
 
 ![5](task-8-img-5.jpg)
-
-![6](task-8-img-6.jpg)
-
-
-## Fertigstellung
 
 ![6](task-8-img-6.jpg)
 
