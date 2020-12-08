@@ -2,6 +2,21 @@
 
 # Aufgabe 8: VR-Cardboard-Brille
 
+## Vorbereitung
+
+* Kleber
+
+* Tesa-Film
+
+* Schere
+
+* Skalpell bzw. Cutter-Messer
+
+* Versandkarton
+
+* Vorlage des VR-Cardboards
+
+
 ## Dokumentation zum Aufbau
 
 ![1](task-8-img-1.jpg)
