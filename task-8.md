@@ -16,6 +16,8 @@
 
 * Vorlage des VR-Cardboards
 
+* weiße Farbe
+
 ![1](task-8-img-1.jpg)
 
 
@@ -28,6 +30,10 @@
 ![4](task-8-img-4.jpg)
 
 ![5](task-8-img-5.jpg)
+
+![6](task-8-img-6.jpg)
+
+![7](task-8-img-7.jpg)
 
 
 ---
