@@ -31,9 +31,15 @@ Wurde ein Video-Inhalt vom Nutzer ausgewählt, so ist jederzeit eine Rückkehr z
 * **Untertitel:** Nutzer bekommt automatisch erstellte Untertitel angezeigt
 * **Lesezeichen:** Das Video kann als Lesezeichen eingespeichert werden und später an der gleichen Stelle weitergeschaut werden
 
-### Time Line
+### Interaktion
 
 ![4](task-9-img-4.jpg)
+
+Über speziell erscheinende Elemente kann der Nutzer je nach Kontext interagieren. In deisem Fall wird zu verdeutlicht, dass der Nutzer jetzt hierüber mehr erfahren kann. So bekommt er bspw. Keyfacts, Daten, einen Text oder sonstiges. Auch hier wieder sind die Elemente an das jeweilige reale Objekt durch Motion Tracking verbunden und bleibt trotz Bewegung statisch an der gleichen Stelle.  
+
+### Time Line
+
+![5](task-9-img-5.jpg)
 
 Die Zeitleiste teilt die im Video vorkommenden Themen oder Informationen in verschiedene Kapitel ein und stellt sie als Abschnitte unten dar. Hovert oder betrachtet der Nutzer das jeweilige Kapitel (Time Stamp), so vergrößert sich das Element und es erscheint der Titel sowie ein Vorschaubild. Der Nutzer hat die Möglichkeit, an die jeweilige Stelle des Kapitel zu springen, kann aber auch eine beliebige Stelle in der Leiste anwählen. Außerdem bekommt der Nutzer in dieser Zeitleiste den aktuellen Fortschritt des Videos mit Zeitangabe (aktuelle Zeit, Anfangs- und Endzeit) angezeigt.
 
@@ -42,7 +48,7 @@ Standardfunktionen:
 * zum Video-Anfang bzw. zum vorigen Video
 * zum nächsten Video
 
-![5](task-9-img-5.jpg)
+![6](task-9-img-6.jpg)
 
 Des weiteren Kann die Zeitleiste mit einem Button komplett verborgen werden, was besonders bei kürzeren Videos sinnvoll ist.
 
