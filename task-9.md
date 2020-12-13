@@ -2,7 +2,7 @@
 
 # Aufgabe 9: Virtual Immersive Lecture (Konzept)
 
-## Storyboard
+## Storyboard/Prototyp
 
 ### Überblick
 
