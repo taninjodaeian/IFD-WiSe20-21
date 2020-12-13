@@ -6,6 +6,9 @@
 
 Das Interface für die VR-Brille soll dem Nutzer viele Informationen übermitteln, die er je nach Bedarf sich anzeigen lassen kann. Wichtig erscheint es mir, darauf zu achten, dass die zusätzlichen Informationen nicht zu sehr im Vordergrund stehen und vom eigentlicen Video-Inhalt ablenkt. So sollen die zusätzlichen Funktionen und Informationen das bestehnende inhaltliche Angebot nicht ersetzen, sondern nur ergänzen. Funktionen müssen leicht verständlich und intuitiv implementiert werden, ohne zu viel Raum einzunehmen, der bereits durch das Gerät selbst begrentz ist.
 
+[Video-Vorschau](#)
+
+
 ## Überblick
 
 ![1](task-9-img-1.jpg)
@@ -43,7 +46,6 @@ Standardfunktionen:
 
 Des weiteren Kann die Zeitleiste mit einem Button komplett verborgen werden, was besonders bei kürzeren Videos sinnvoll ist.
 
-[Video-Vorschau](#)
 
 
 ---
