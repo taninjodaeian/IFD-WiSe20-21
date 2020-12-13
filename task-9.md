@@ -2,9 +2,13 @@
 
 # Aufgabe 9: Virtual Immersive Lecture (Konzept)
 
-## Storyboard & Funktionen
+## Storyboard
+
+### Überblick
 
 ![1](task-9-img-1.jpg)
+
+### Funktionen
 
 ![2](task-9-img-2.jpg)
 
@@ -13,6 +17,10 @@
 ![4](task-9-img-4.jpg)
 
 ![5](task-9-img-5.jpg)
+
+![6](task-9-img-6.jpg)
+
+[Video-Vorschau](#)
 
 
 ---
