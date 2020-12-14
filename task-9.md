@@ -4,7 +4,7 @@
 
 ## Überlegungen
 
-Das Interface für die VR-Brille soll dem Nutzer viele Informationen übermitteln, die er je nach Bedarf sich anzeigen lassen kann. Wichtig erscheint es mir, darauf zu achten, dass die zusätzlichen Informationen nicht zu sehr im Vordergrund stehen und vom eigentlicen Video-Inhalt ablenkt. So sollen die zusätzlichen Funktionen und Informationen das bestehnende inhaltliche Angebot nicht ersetzen, sondern nur ergänzen. Funktionen müssen leicht verständlich und intuitiv implementiert werden, ohne zu viel Raum einzunehmen, der bereits durch das Gerät selbst begrentz ist.
+Das Interface für die VR-Brille soll dem Nutzer viele Informationen übermitteln, die er je nach Bedarf sich anzeigen lassen kann. Wichtig erscheint es mir, darauf zu achten, dass die zusätzlichen Informationen nicht zu sehr im Vordergrund stehen und vom eigentlichen Video-Inhalt ablenken. So sollen die zusätzlichen Funktionen  das bestehnende inhaltliche Angebot nicht ersetzen, sondern nur sinnvoll ergänzen. Funktionen müssen leicht verständlich und intuitiv implementiert werden, ohne zu viel Raum einzunehmen, der bereits durch das Gerät selbst begrenzt ist.
 
 [Video-Vorschau](#)
 
@@ -13,9 +13,9 @@ Das Interface für die VR-Brille soll dem Nutzer viele Informationen übermittel
 
 ![1](task-9-img-1.jpg)
 
-Grob orientiert habe ich mich bei dem Konzept an bestehende Video-Player, die allerdings eindimensional sind. Daher ist eine Adaption auf die drei-dimensionale Betrachtung notwending, um das Erlebnis des Betrachtens zu verbessern und somit ein stimmiges Interface für die VR-Brille zu schaffen. Es handelt sich hierbei bereits um einen High-Fidelity-Prototypen, um die Vorstellungen besser zu erläutern.
+Grob orientiert habe ich mich an bestehende Video-Player, die allerdings eindimensional sind. Daher ist eine Adaption auf die dreidimensionale Betrachtung notwending, um das Erlebnis des Betrachtenden zu verbessern und somit ein in sich stimmiges Interface zu schaffen.
 
-Alle hier abgebildeten Komponenten sind 3D-Elemente. Das bedeutet, dass sich die einzelnen Grafiken je nach Bewegung oder Neigung des Nutzers minimal mitbewegen, um den Eindruck des "immersiven Dabeiseins" zu vermitteln.
+Alle hier abgebildeten Komponenten sind 3D-Elemente. Das bedeutet, dass sich die einzelnen Grafiken je nach Bewegung oder Neigung des Nutzers minimal mitbewegen, um den Eindruck des Immersiven zu vermitteln.
 
 ## Funktionen & Aufbau
 
@@ -23,25 +23,25 @@ Alle hier abgebildeten Komponenten sind 3D-Elemente. Das bedeutet, dass sich die
 
 ![2](task-9-img-2.jpg)
 
-Wurde ein Video-Inhalt vom Nutzer ausgewählt, so ist jederzeit eine Rückkehr zur Auswahl der gelisteten Videos möglich, damit der Nutzer auch zügig zwischen den Inhalten wechseln kann. Danehmen befindet sich die Information zur Veranstaltung sowie zum Thema, das hier behandelt wird. 
+Wurde ein Video-Inhalt vom Nutzer ausgewählt, so ist jederzeit eine Rückkehr zur Auswahl zu den gelisteten Videos möglich, damit der Nutzer auch zügig zwischen den Inhalten wechseln kann. Daneben befindet sich die Information zur Veranstaltung sowie zum Thema, das hier behandelt wird. 
 
 ![3](task-9-img-3.jpg)
 
-* **Mehr-Erfahren-Button:** Nutzer bekommt ein Layout mit weiteren Informationen zur Veranstaltung oder zu den Videoinhalten
-* **Untertitel:** Nutzer bekommt automatisch erstellte Untertitel angezeigt
-* **Lesezeichen:** Das Video kann als Lesezeichen eingespeichert werden und später an der gleichen Stelle weitergeschaut werden
+* **Mehr Erfahren:** Nutzer bekommt ein Layout mit weiteren Informationen zur Veranstaltung oder zu den Videoinhalten.
+* **Untertitel:** Nutzer bekommt automatisch erstellte Untertitel angezeigt.
+* **Lesezeichen:** Das Video kann sich als Lesezeichen eingespeichert werden und später an der gleichen Stelle weitergeschaut werden.
 
 ### Interaktion
 
 ![4](task-9-img-4.jpg)
 
-Über speziell erscheinende Elemente kann der Nutzer je nach Kontext interagieren. In deisem Fall wird zu verdeutlicht, dass der Nutzer jetzt hierüber mehr erfahren kann. So bekommt er bspw. Keyfacts, Daten, einen Text oder sonstiges. Auch hier wieder sind die Elemente an das jeweilige reale Objekt durch Motion Tracking verbunden und bleibt trotz Bewegung statisch an der gleichen Stelle.  
+Über speziell erscheinende Elemente kann der Nutzer je nach Kontext interagieren. In deisem Fall wird verdeutlicht, dass er jetzt darüber erfahren kann. So bekommt er bspw. Keyfacts, Daten oder einen erklärenden Test visuelle dargestellt. Auch hier sind die Elemente an das jeweilige reale Objekt durch Motion Tracking verbunden und bleiben trotz Bewegung statisch an der gleichen Stelle.  
 
 ### Time Line
 
 ![5](task-9-img-5.jpg)
 
-Die Zeitleiste teilt die im Video vorkommenden Themen oder Informationen in verschiedene Kapitel ein und stellt sie als Abschnitte unten dar. Hovert oder betrachtet der Nutzer das jeweilige Kapitel (Time Stamp), so vergrößert sich das Element und es erscheint der Titel sowie ein Vorschaubild. Der Nutzer hat die Möglichkeit, an die jeweilige Stelle des Kapitel zu springen, kann aber auch eine beliebige Stelle in der Leiste anwählen. Außerdem bekommt der Nutzer in dieser Zeitleiste den aktuellen Fortschritt des Videos mit Zeitangabe (aktuelle Zeit, Anfangs- und Endzeit) angezeigt.
+Die Zeitleiste teilt die im Video vorkommenden Themen oder Informationen in verschiedene Kapitel ein und stellt sie als Abschnitte unten dar. Hovert oder betrachtet der Nutzer das jeweilige Kapitel (den Time Stamp), so vergrößert sich das Element und es erscheint der Titel sowie ein Vorschaubild dieser Stelle. Der Nutzer hat die Möglichkeit, an die jeweilige Stelle des Kapitel zu springen, kann aber auch durch die Auswahl der Zeitleiste selbst im Video navigieren. Außerdem bekommt der Nutzer den aktuellen Fortschritt des Videos mit Zeitangabe (aktuelle Video-Zeit, Anfangs- und Endzeit) angezeigt.
 
 Standardfunktionen:
 * Play/Stopp
@@ -50,7 +50,7 @@ Standardfunktionen:
 
 ![6](task-9-img-6.jpg)
 
-Des weiteren Kann die Zeitleiste mit einem Button komplett verborgen werden, was besonders bei kürzeren Videos sinnvoll ist.
+Die zeitleiste kann auch komplett verborgen werden, was besonders bei kürzeren Videos sinnvoll scheint.
 
 
 
