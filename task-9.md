@@ -6,7 +6,7 @@
 
 Das Interface für die VR-Brille soll dem Nutzer viele Informationen übermitteln, die er je nach Bedarf sich anzeigen lassen kann. Wichtig erscheint es mir, darauf zu achten, dass die zusätzlichen Informationen nicht zu sehr im Vordergrund stehen und vom eigentlichen Video-Inhalt ablenken. So sollen die zusätzlichen Funktionen  das bestehnende inhaltliche Angebot nicht ersetzen, sondern nur sinnvoll ergänzen. Funktionen müssen leicht verständlich und intuitiv implementiert werden, ohne zu viel Raum einzunehmen, der bereits durch das Gerät selbst begrenzt ist.
 
-[Video-Vorschau](#)
+[Video-Vorschau (Stand 17.12.)](#)
 
 
 ## Überblick
